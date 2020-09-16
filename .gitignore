@@ -1,2 +1,6 @@
 #Ignore data files due to size
 Data/
+
+#Ignore venv
+LC_venv/
+
